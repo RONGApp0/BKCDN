@@ -402,4 +402,4 @@ $(document).ready(function() {
     });
 });
 //版本显示
-console.log("%cAkina for Typecho 3.4.3","background:#ff6d6d;color:#fff;margin:10px;padding:6px;","https://zhebk.cn");
+console.log("%c钟意博客","background:#ff6d6d;color:#fff;margin:10px;padding:6px;","https://joibk.cn");
